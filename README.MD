@@ -1,4 +1,4 @@
-Ajax
+_Ajax
 ====
 
 #### 简单封装的ajax库
@@ -29,6 +29,7 @@ Ajax
   ```
 
 * libs: 通过 `<script>标签引入<script src="lib/_Ajax.min.js" type="text/javascript" charset="utf-8"></script>`
+                通过CDN获取`http://ajax-10030624.file.myqcloud.com/_Ajax.js` `http://ajax-10030624.file.myqcloud.com/_Ajax.min.js`
 
 * example
 
