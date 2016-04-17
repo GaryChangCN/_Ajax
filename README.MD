@@ -7,7 +7,6 @@ Ajax
 
 #### 和jQuery Ajax格式相似
 
-`npm install wfeditor`
 
 * api
 
