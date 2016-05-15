@@ -7,7 +7,7 @@ _Ajax
 
 #### 和jQuery Ajax格式相似
 
-
+#### 2016-05-15 更新支持jsonp
 * api
 
   ```
